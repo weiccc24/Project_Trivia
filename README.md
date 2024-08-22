@@ -47,7 +47,7 @@ This project marks the beginning of my software engineering journey. While it ma
 Wei-Ling Chang
 
 ## License
-This project is open source and available under the [MIT License](LICENSE.TXT).
+This project is open source and available under the [MIT License](LICENSE.txt).
 
 ---
 
